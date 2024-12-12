@@ -1,5 +1,13 @@
 #  Invoice Data Extractor using Gemini  
 **Invoice Data Extractor using Gemini** is an AI-powered tool that helps extract and understand data from invoices in multiple languages. By uploading an image of an invoice, the app leverages **Gemini** API to analyze and answer specific questions about the invoice contents.  
+#DEMO
+You can see a demo of the **Invoice Data Extractor** in action below:
+<img width="654" alt="Screenshot 2024-12-12 at 11 20 03 AM" src="https://github.com/user-attachments/assets/5a0d3530-1637-44f5-87ad-e06aba06b2d7" />
+1. **Upload an Invoice**: Upload an image of your invoice to the app.  
+2. **Ask Questions**: Type a question like “Explain me about invoice?”.
+<img width="566" alt="Screenshot 2024-12-12 at 11 20 51 AM" src="https://github.com/user-attachments/assets/39849125-be11-4dcc-b1b2-8895fa0469ca" />
+3. **Response**:  
+<img width="523" alt="Screenshot 2024-12-12 at 11 21 21 AM" src="https://github.com/user-attachments/assets/23f5f2aa-5a36-4558-aea1-f17afc6deff9" />
 
 ## 🌟 Features  
 - **📸 Invoice Image Upload**: Upload invoice images in JPEG, PNG, or JPG formats.  
